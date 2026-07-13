@@ -56,8 +56,8 @@ Analyzed job-market trends, salaries, locations, seniority levels, and AI-relate
 
 ## 📜 Certifications
 
-- Google Data Analytics Professional Certificate — In Progress
-- Google Project Management Certificate
+- Google Data Analytics Professional Certificate
+- Microsoft Business Analytics Certificate
 - Excel Basics for Data Analysis — IBM
 
 ---
