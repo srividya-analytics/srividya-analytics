@@ -62,13 +62,6 @@ Analyzed job-market trends, salaries, locations, seniority levels, and AI-relate
 
 ---
 
-## 🌱 Currently Learning
-
-- SQL for Data Analytics
-- Business and Data Analyst interview preparation
-- End-to-end analytics project development
-
----
 
 ## 📫 Connect With Me
 
